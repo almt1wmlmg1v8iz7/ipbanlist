@@ -1,0 +1,6 @@
+157.131.56.0/24 	Sonic Telecom San Jose California
+166.199.111.0/24 	AT&T Enterprises, LLC
+189.28.94.0/24 		Telefónica Celular de Bolivia S.A.
+23.0.0.0/8 			Too broad
+38.0.0.0/8 			Too broad
+75.87.134.0/24 		Charter Communications Inc
